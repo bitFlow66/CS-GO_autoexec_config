@@ -172,5 +172,9 @@ cl_crosshair_t "1";
 cl_crosshairgap_useweaponvalue "0";
 hud_showtargetid "1";
 
+//Custom
+mm_dedicated_search_maxping 25
+dsp_slow_cpu 0 // High quality sound
+
 # Write to standrd config.cfg
 # host_writeconfig
